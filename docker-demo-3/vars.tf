@@ -39,6 +39,6 @@ variable "INSTANCE_DEVICE_NAME" {
 }
 
 variable "JENKINS_VERSION" {
-  default = "2.319.2"
+  default = "2.319.3"
 }
 
